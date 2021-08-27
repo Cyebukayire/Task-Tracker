@@ -17,7 +17,7 @@
             Task,
         },
 
-        emits: ['delete-task', 'toggle-reminder'],
+        emits: ['toggle-reminder', 'delete-task'],
     }
 
 </script>
