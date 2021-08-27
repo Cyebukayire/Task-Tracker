@@ -9,13 +9,13 @@
     {
       "text": "Class Project Presentation",
       "day": "tomorrow 4:00 pm",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
       "text": "IELTS Exam",
       "day": "Today 1:30 pm",
-      "reminder": true,
+      "reminder": false,
       "id": 3
     }
   ]
