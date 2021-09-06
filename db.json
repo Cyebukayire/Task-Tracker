@@ -3,7 +3,7 @@
     {
       "text": "Dentist Appointment",
       "day": "Today 1:30 pm",
-      "reminder": false,
+      "reminder": true,
       "id": 1
     },
     {
@@ -17,12 +17,6 @@
       "day": "Today 1:30 pm",
       "reminder": false,
       "id": 3
-    },
-    {
-      "text": "Dance",
-      "day": "Today 1:30 pm",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
